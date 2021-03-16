@@ -1,4 +1,5 @@
 #!/usr/bin/python
+erros
 import heapq
 from operator import itemgetter
 import sys
